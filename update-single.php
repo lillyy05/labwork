@@ -1,9 +1,5 @@
 <?php
-/**
-* Use an HTML form to edit an entry in the
-* users table.
-*
-*/
+
 require "../common.php";
 if (isset($_POST['submit'])) {
 try {
